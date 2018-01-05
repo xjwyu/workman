@@ -1,0 +1,10 @@
+start_for_win.bat 为workerman+GatewayWorker在window下启动命令，只需双击该文件则可以启动workerman服务
+
+
+
+start.php 为workerman+GatewayWorker在Linux下启动入口，在根目录输入命令 php start.php start，则可以运行workerman在Linux的服务
+
+
+
+server.php 为workerman服务的启动文件，根目录打开cmd,执行php start.php start，则可以运行workerman的服务
+
